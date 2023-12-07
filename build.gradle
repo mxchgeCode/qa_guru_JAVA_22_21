@@ -30,12 +30,8 @@ dependencies {
             "io.rest-assured:rest-assured:$restAssuredVersion",
             "io.rest-assured:json-schema-validator:$restAssuredVersion",
             "io.qameta.allure:allure-rest-assured:$allureVersion",
-            "com.codeborne:selenide:6.19.1",
-            "com.github.javafaker:javafaker:1.0.2",
             "org.junit.jupiter:junit-jupiter:5.10.0",
-            'io.qameta.allure:allure-selenide:2.21.0',
             'org.slf4j:slf4j-simple:2.0.9',
-            'org.aeonbits.owner:owner:1.0.4'
     )
 }
 
